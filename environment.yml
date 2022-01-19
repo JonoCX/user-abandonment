@@ -1,0 +1,17 @@
+name: click-abandon
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - matplotlib
+  - scipy
+  - seaborn
+  - pandas
+  - scikit-learn
+  - mlxtend
+  - optuna
+  - pingouin
+  - jupyterlab
+prefix: /Users/jonathac/anaconda3/envs/click-abandon
